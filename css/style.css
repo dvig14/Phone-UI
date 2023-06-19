@@ -142,15 +142,7 @@ input{
     height:35px;
 }
 .end i{font-size:1.4rem;}
-@media (min-width:370px) and (max-width:1326px){
-    body{
-        align-items:flex-start;
-    }
-}
 @media screen and (max-width:369px){
-    body{
-        align-items:flex-start;
-    }
     .container{
         width:320px;
     }
